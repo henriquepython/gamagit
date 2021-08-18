@@ -1,3 +1,7 @@
+##Buscador de repositórios
+ do Github
+
+ Este projeto foi realizado no curso fullstack developer da Gama Academy, como pratica de reactJs, nele podemos trabalhar conceitos fundamentais do react, assim como rotas, style components, consumo de API's, REACT-ROUTER DOM, redenrização condicional dentre outras funcionalidades.
 # Getting Started with Create React App
 
 This project was bootstrapped with [Create React App](https://github.com/facebook/create-react-app).
